@@ -1,3 +1,11 @@
+/*
+ * ============================================================================================================*
+ * Author      : Alaa Emad
+ * File name   : C_Final_Project_header.h
+ * Description : Prototypes for the functions of the project
+ ============================================================================================================
+*/
+
 /*Check if the file defined before or not*/
 #ifndef C_FINAL_PROJECT_HEADER_H
 /*If the file not defined before define it*/

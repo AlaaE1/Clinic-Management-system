@@ -1,3 +1,12 @@
+/*
+ * ============================================================================================================*
+ * Author      : Alaa Emad
+ * File name   : C_Final_Project_main.c
+ * Description : Implementation for project core
+ ============================================================================================================
+*/
+
+
 /*Including libraries from the system files*/
 #include <stdio.h>
 #include <stdlib.h>

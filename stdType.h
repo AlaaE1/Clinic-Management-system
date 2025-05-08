@@ -1,3 +1,12 @@
+/*
+ * ============================================================================================================*
+ * Author      : Alaa Emad
+ * File name   : stdType.h
+ * Description : All required data types
+ ============================================================================================================
+*/
+
+
 /*Check if the file defined before or not*/
 #ifndef STDTYPE_H
 /*If the file not defined before define it*/

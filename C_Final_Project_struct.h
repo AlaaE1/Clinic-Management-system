@@ -1,3 +1,12 @@
+/*
+ * ============================================================================================================*
+ * Author      : Alaa Emad
+ * File name   : C_Final_Project_struct.h
+ * Description : Creating the structs required for the project
+ ============================================================================================================
+*/
+
+
 /*Check if the file defined before or not*/
 #ifndef C_FINAL_PROJECT_STRUCT_H
 /*If the file not defined before define it*/

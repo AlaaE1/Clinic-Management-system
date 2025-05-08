@@ -1,3 +1,11 @@
+/*
+ * ============================================================================================================*
+ * Author      : Alaa Emad
+ * File name   : C_Final_Project_functions.h
+ * Description : Implementation for the functions of the project
+ ============================================================================================================
+*/
+
 /*Including libraries from the system files*/
 #include <stdio.h>
 #include <stdlib.h>
